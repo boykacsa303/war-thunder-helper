@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Support | War Thunder Helper</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 0 24px;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      background: #111827;
+      color: #e5e7eb;
+    }
+    a { color: #60a5fa; }
+    h1, h2 { color: #ffffff; }
+  </style>
+</head>
+<body>
+  <h1>War Thunder Helper — Support</h1>
+
+  <p>
+    War Thunder Helper is a free, unofficial assistant for
+    War Thunder vehicle analysis, game mechanics, tactics,
+    and comparisons between in-game and real-world performance.
+  </p>
+
+  <h2>Need help?</h2>
+  <p>
+    To report a problem, suggest an improvement, or ask a question
+    about this project, please open a GitHub issue.
+  </p>
+
+  <p>
+    <a href="https://github.com/boykacsa303/war-thunder-helper/issues">
+      Contact support via GitHub Issues
+    </a>
+  </p>
+
+  <h2>Important notice</h2>
+  <p>
+    This is an independent fan project. It is not affiliated with,
+    endorsed by, or sponsored by Gaijin Entertainment.
+  </p>
+
+  <p><a href="./">Back to home</a></p>
+</body>
+</html>
